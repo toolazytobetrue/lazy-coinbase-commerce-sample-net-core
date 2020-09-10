@@ -10,6 +10,7 @@
 /Users/hassanjawhar/Projects/lazy-coinbase-commerce-sample-net-core/lazy-coinbase-commerce-sample-net-core/bin/Debug/netcoreapp3.1/Flurl.dll
 /Users/hassanjawhar/Projects/lazy-coinbase-commerce-sample-net-core/lazy-coinbase-commerce-sample-net-core/bin/Debug/netcoreapp3.1/Flurl.Http.dll
 /Users/hassanjawhar/Projects/lazy-coinbase-commerce-sample-net-core/lazy-coinbase-commerce-sample-net-core/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/hassanjawhar/Projects/lazy-coinbase-commerce-sample-net-core/lazy-coinbase-commerce-sample-net-core/obj/Debug/netcoreapp3.1/lazy-coinbase-commerce-sample-net-core.csprojAssemblyReference.cache
 /Users/hassanjawhar/Projects/lazy-coinbase-commerce-sample-net-core/lazy-coinbase-commerce-sample-net-core/obj/Debug/netcoreapp3.1/lazy-coinbase-commerce-sample-net-core.AssemblyInfoInputs.cache
 /Users/hassanjawhar/Projects/lazy-coinbase-commerce-sample-net-core/lazy-coinbase-commerce-sample-net-core/obj/Debug/netcoreapp3.1/lazy-coinbase-commerce-sample-net-core.AssemblyInfo.cs
 /Users/hassanjawhar/Projects/lazy-coinbase-commerce-sample-net-core/lazy-coinbase-commerce-sample-net-core/obj/Debug/netcoreapp3.1/lazy-coinbase-commerce-sample-net-core.csproj.CoreCompileInputs.cache

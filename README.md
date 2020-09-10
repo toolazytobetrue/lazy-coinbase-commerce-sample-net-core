@@ -23,10 +23,7 @@ Install-Package Coinbase.Commerce
  
 * Endpoint: https://69e0ede72c29.ngrok.io/api/order
 * Method: GET (Just for testing)
-* Body - Empty
-```
-
-```
+* Body - Empty 
 
 ## Response <string>
 ```
