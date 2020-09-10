@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/hassanjawhar/Projects/lazy-coinbase-commerce-sample-net-core/lazy-coinbase-commerce-sample-net-core/lazy-coinbase-commerce-sample-net-core.csproj": {}
+  },
+  "projects": {
+    "/Users/hassanjawhar/Projects/lazy-coinbase-commerce-sample-net-core/lazy-coinbase-commerce-sample-net-core/lazy-coinbase-commerce-sample-net-core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hassanjawhar/Projects/lazy-coinbase-commerce-sample-net-core/lazy-coinbase-commerce-sample-net-core/lazy-coinbase-commerce-sample-net-core.csproj",
+        "projectName": "lazy-coinbase-commerce-sample-net-core",
+        "projectPath": "/Users/hassanjawhar/Projects/lazy-coinbase-commerce-sample-net-core/lazy-coinbase-commerce-sample-net-core/lazy-coinbase-commerce-sample-net-core.csproj",
+        "packagesPath": "/Users/hassanjawhar/.nuget/packages/",
+        "outputPath": "/Users/hassanjawhar/Projects/lazy-coinbase-commerce-sample-net-core/lazy-coinbase-commerce-sample-net-core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hassanjawhar/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Coinbase.Commerce": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

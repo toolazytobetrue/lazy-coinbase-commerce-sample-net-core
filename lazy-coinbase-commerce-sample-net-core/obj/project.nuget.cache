@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "an0xDHlYG4dvHBeN2DiaiTxgDhDVs/HcC3lVHHoaPsd936B4cYo0vGEB6KrwCgyLfws7lbM/EqFMpK45nDtHOg==",
+  "success": true,
+  "projectFilePath": "/Users/hassanjawhar/Projects/lazy-coinbase-commerce-sample-net-core/lazy-coinbase-commerce-sample-net-core/lazy-coinbase-commerce-sample-net-core.csproj",
+  "expectedPackageFiles": [
+    "/Users/hassanjawhar/.nuget/packages/coinbase.commerce/1.1.1/coinbase.commerce.1.1.1.nupkg.sha512",
+    "/Users/hassanjawhar/.nuget/packages/flurl/2.8.1/flurl.2.8.1.nupkg.sha512",
+    "/Users/hassanjawhar/.nuget/packages/flurl.http/2.4.1/flurl.http.2.4.1.nupkg.sha512",
+    "/Users/hassanjawhar/.nuget/packages/microsoft.netcore.platforms/2.0.0/microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "/Users/hassanjawhar/.nuget/packages/newtonsoft.json/12.0.1/newtonsoft.json.12.0.1.nupkg.sha512",
+    "/Users/hassanjawhar/.nuget/packages/system.text.encoding.codepages/4.4.0/system.text.encoding.codepages.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

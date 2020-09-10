@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{107BB3F4-FC97-42EE-AD17-A617074167AD}|MonkeysGold">
+  <MonoDevelop.Ide.Workbench ActiveDocument="lazy-coinbase-commerce-sample-net-core/Controllers/OrderController.cs">
+    <Files>
+      <File FileName="lazy-coinbase-commerce-sample-net-core/Program.cs" Line="11" Column="1" />
+      <File FileName="lazy-coinbase-commerce-sample-net-core/Startup.cs" Line="10" Column="1" />
+      <File FileName="lazy-coinbase-commerce-sample-net-core/Controllers/CoinbaseController.cs" Line="19" Column="6" />
+      <File FileName="lazy-coinbase-commerce-sample-net-core/Services/Implementations/CoinbaseCommerceService.cs" Line="12" Column="16" />
+      <File FileName="lazy-coinbase-commerce-sample-net-core/Controllers/IndexController.cs" Line="1" Column="1" />
+      <File FileName="lazy-coinbase-commerce-sample-net-core/Services/Interfaces/ICoinbaseCommerceService.cs" Line="9" Column="1" />
+      <File FileName="lazy-coinbase-commerce-sample-net-core/appsettings.json" Line="10" Column="12" />
+      <File FileName="lazy-coinbase-commerce-sample-net-core/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="lazy-coinbase-commerce-sample-net-core/Properties/launchSettings.json" Line="17" Column="48" />
+      <File FileName="lazy-coinbase-commerce-sample-net-core/Controllers/OrderController.cs" Line="10" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lazy-coinbase-commerce-sample-net-core" expanded="True">
+            <Node name="lazy-coinbase-commerce-sample-net-core" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="OrderController.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="Implementations" expanded="True" />
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.lazy-coinbase-commerce-sample-net-core PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
